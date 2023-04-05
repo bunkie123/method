@@ -1,4 +1,4 @@
-
+--- /xenaki
 
 --supports auto execute just put it in auto exc folder as a .txt
 if not game.IsLoaded(game) then 
